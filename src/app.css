@@ -87,3 +87,7 @@ button:focus-visible {
 #errorMessage {
   color: red;
 }
+
+.rain {
+  color:lightblue;
+}
